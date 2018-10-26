@@ -3,4 +3,4 @@ def test_division():
     b = 3
     c = a//b
 
-    assert 3 == c , 'division entera exitosa'
+    assert 3 == c , 'division entera no exitosa'
